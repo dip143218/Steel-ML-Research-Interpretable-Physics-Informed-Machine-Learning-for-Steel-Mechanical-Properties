@@ -1,0 +1,4 @@
+Target,Rows_Explained,Feature_Set,Number_of_Features,SHAP_Method,Background_Size,Model_Fitted_On
+yield strength,312,Raw_13,13,Permutation,30,All usable rows; explanation only
+tensile strength,312,Raw_13,13,Permutation,30,All usable rows; explanation only
+elongation,303,Raw_plus_Proxy_Descriptors,16,Permutation,30,All usable rows; explanation only
