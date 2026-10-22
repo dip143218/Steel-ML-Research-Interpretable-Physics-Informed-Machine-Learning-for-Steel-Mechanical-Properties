@@ -1,0 +1,4 @@
+Mechanical Property,Feature Set,Number of Clusters,Minimum Cluster Size,Silhouette Score,Random CV R2,Cluster-Holdout R2,Random CV RMSE,Cluster-Holdout RMSE,RMSE Increase (%),Random CV MAE,Cluster-Holdout MAE,MAE Increase (%)
+yield strength,Raw_13,4,55,0.283,0.847,0.028,117.783,297.196,152.326,81.197,219.801,170.699
+tensile strength,Raw_13,4,55,0.283,0.862,0.042,128.3,338.624,163.932,87.61,276.853,216.005
+elongation,Candidate_Physics_25,4,55,0.283,0.477,-0.016,3.679,5.127,39.363,2.506,3.916,56.24
